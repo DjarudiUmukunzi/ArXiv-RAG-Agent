@@ -1,0 +1,51 @@
+question,expected_answer,generated_answer,status,confidence,verification,similarity_score,num_citations,response_time,retrieval_time,generation_time,manual_correctness,notes
+What problem does the paper 'LLM attribution analysis across different fine-tuning strategies and model scales for automated code compliance' address?,LLM attribution analysis across different fine-tuning strategies and model scales for automated code...,No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.099,0,0.6105749607086182,0.6105749607086182,0,,
+What problem does the paper 'Synthetic data in cryptocurrencies using generative models' address?,"Synthetic data in cryptocurrencies using generative models
+
+Data plays a fundamental role in consoli...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.103,0,0.7618980407714844,0.7618980407714844,0,,
+What problem does the paper 'Prototype-Grounded Concept Models for Verifiable Concept Alignment' address?,"Prototype-Grounded Concept Models for Verifiable Concept Alignment
+
+Concept Bottleneck Models (CBMs)...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.052,0,0.03825521469116211,0.03825521469116211,0,,
+What problem does the paper 'IUQ: Interrogative Uncertainty Quantification for Long-Form Large Language Model Generation' address?,"IUQ: Interrogative Uncertainty Quantification for Long-Form Large Language Model Generation
+
+Despite...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.077,0,0.0411529541015625,0.041152000427246094,0,,
+What problem does the paper 'Prism: Symbolic Superoptimization of Tensor Programs' address?,"Prism: Symbolic Superoptimization of Tensor Programs
+
+This paper presents Prism, the first symbolic ...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.081,0,0.35988306999206543,0.359882116317749,0,,
+What problem does the paper 'Ragged Paged Attention: A High-Performance and Flexible LLM Inference Kernel for TPU' address?,"Ragged Paged Attention: A High-Performance and Flexible LLM Inference Kernel for TPU
+
+Large Language...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.085,0,0.05678105354309082,0.05678105354309082,0,,
+What problem does the paper 'Learning Uncertainty from Sequential Internal Dispersion in Large Language Models' address?,"Learning Uncertainty from Sequential Internal Dispersion in Large Language Models
+
+Uncertainty estim...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.11,0,0.01643204689025879,0.01643204689025879,0,,
+What problem does the paper 'Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching' address?,"Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching
+
+Flow matching retain...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.096,0,0.05888724327087402,0.05888724327087402,0,,
+What problem does the paper 'Dr.~RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement' address?,"Dr.~RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement
+
+Recent advances...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.074,0,0.018124103546142578,0.018124103546142578,0,,
+What problem does the paper 'Polarization by Default: Auditing Recommendation Bias in LLM-Based Content Curation' address?,"Polarization by Default: Auditing Recommendation Bias in LLM-Based Content Curation
+
+Large Language ...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.099,0,0.06687498092651367,0.06687498092651367,0,,
+What problem does the paper 'When Do Early-Exit Networks Generalize? A PAC-Bayesian Theory of Adaptive Depth' address?,"When Do Early-Exit Networks Generalize? A PAC-Bayesian Theory of Adaptive Depth
+
+Early-exit neural n...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.103,0,0.08366894721984863,0.08366894721984863,0,,
+What problem does the paper 'WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training' address?,WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Po...,No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.088,0,0.058110952377319336,0.05810976028442383,0,,
+What problem does the paper 'When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning' address?,When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Mac...,No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.114,0,0.6048858165740967,0.6048548221588135,0,,
+What problem does the paper 'NeuroLip: An Event-driven Spatiotemporal Learning Framework for Cross-Scene Lip-Motion-based Visual Speaker Recognition' address?,NeuroLip: An Event-driven Spatiotemporal Learning Framework for Cross-Scene Lip-Motion-based Visual ...,No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.092,0,0.31061387062072754,0.31061387062072754,0,,
+What problem does the paper 'Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models' address?,Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken D...,No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.118,0,0.7191851139068604,0.7191851139068604,0,,
+What problem does the paper 'Hybrid Decision Making via Conformal VLM-generated Guidance' address?,"Hybrid Decision Making via Conformal VLM-generated Guidance
+
+Building on recent advances in AI, hybr...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.099,0,0.18828177452087402,0.18828082084655762,0,,
+What problem does the paper 'Beyond a Single Frame: Multi-Frame Spatially Grounded Reasoning Across Volumetric MRI' address?,"Beyond a Single Frame: Multi-Frame Spatially Grounded Reasoning Across Volumetric MRI
+
+Spatial reaso...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.077,0,0.26708316802978516,0.26708316802978516,0,,
+What problem does the paper 'IG-Search: Step-Level Information Gain Rewards for Search-Augmented Reasoning' address?,"IG-Search: Step-Level Information Gain Rewards for Search-Augmented Reasoning
+
+Reinforcement learnin...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.11,0,0.0499420166015625,0.0499420166015625,0,,
+What problem does the paper 'Bilevel Optimization of Agent Skills via Monte Carlo Tree Search' address?,"Bilevel Optimization of Agent Skills via Monte Carlo Tree Search
+
+Agent \texttt{skills} are structur...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.088,0,0.22336578369140625,0.22336578369140625,0,,
+What problem does the paper 'DepCap: Adaptive Block-Wise Parallel Decoding for Efficient Diffusion LM Inference' address?,"DepCap: Adaptive Block-Wise Parallel Decoding for Efficient Diffusion LM Inference
+
+Diffusion langua...",No relevant documents found for this query.,No Documents,,No Sources Retrieved,0.07,0,0.025879621505737305,0.025879621505737305,0,,
